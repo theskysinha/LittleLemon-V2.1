@@ -1,4 +1,4 @@
-# Bakend Developer Capstone Project
+# Backend Developer Capstone Project
 
 ## Project Overview
 
