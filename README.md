@@ -38,13 +38,15 @@ Each endpoint requires a SimpleJWT Token for authorization. Pass the token in th
 ```{'Authorization': 'JWT <token>'}```
 
 In Insomnia, add the token as follows
-\\
+\n
 ![image](https://github.com/theskysinha/Meta-Backend-Capstone-Project/assets/66449020/0a9c86c2-b5bd-4d55-827f-96129354b90f)
 
-http:127.0.0.1:8000/api/menu-items
+```
+http:127.0.0.1:8000/api/menu-items \\
 http:127.0.0.1:8000/api/menu-items/{menu-itemId}
 http:127.0.0.1:8000/api/bookings
 http:127.0.0.1:8000/api/bookings/{bookingId}
+```
 
 Endpoints for djoser app
 
